@@ -12,12 +12,7 @@ groups = []
 names = []
 
 # Step 2: Take input for each group
-for i in range(num_groups):
-    name = input(f"\nEnter name for Group {i+1}: ")
-    names.append(name)
-    
-    values = list(map(int, input(f"Enter values for {name} (space separated): ").split()))
-    groups.append(values)
+ww
 
 # Step 3: Perform ANOVA
 f_stat, p_value = stats.f_oneway(*groups)
