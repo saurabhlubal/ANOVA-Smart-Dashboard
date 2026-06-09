@@ -5,7 +5,6 @@ Built using Python, this tool simplifies complex statistical analysis into an in
 
 🚀 Key Features
 
-✨ Dynamic Data Input
 
 Add multiple groups seamlessly for flexible analysis
 Designed for real-world datasets and experimentation
